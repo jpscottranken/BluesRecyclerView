@@ -1,0 +1,117 @@
+<resources>
+    <string name="app_name">Blues RecyclerView</string>
+
+    <string name="btnMainPage">Main Page</string>
+    <string name="tvPlayerNameHint">Name</string>
+    <string name="tvPlayerNumberHint">Number</string>
+    <string name="tvPlayerPositionHint">Position</string>
+    <string name="tvPlayerDescriptionHint">Bio</string>
+
+    <string-array name="player_name">
+        <item>Ivan Barbashev</item>
+        <item>Tyler Bozak</item>
+        <item>Logan Brown</item>
+        <item>Pavel Buchnevich</item>
+        <item>Dakota Joshua</item>
+        <item>Klim Lostin</item>
+        <item>Jordan Kyrou</item>
+        <item>Ryan OReilly</item>
+        <item>David Perron</item>
+        <item>Brandon Saad</item>
+        <item>Brayden Schenn</item>
+        <item>Oskar Sundqvist</item>
+        <item>Vladimir Tarasenko</item>
+        <item>Robert Thomas</item>
+        <item>Robert Bortuzzo</item>
+        <item>Justin Faulk</item>
+        <item>Torey Krug</item>
+        <item>Niko Mikkola</item>
+        <item>Colton Parayko</item>
+        <item>Scott Perunovich</item>
+        <item>Marco Scandella</item>
+        <item>Jake Walman</item>
+        <item>Jordan Binnington</item>
+        <item>Ville Husso </item>
+    </string-array>
+
+    <string-array name="player_number">
+        <item>#49</item>
+        <item>#21</item>
+        <item>#22</item>
+        <item>#89</item>
+        <item>#54</item>
+        <item>#37</item>
+        <item>#25</item>
+        <item>#90</item>
+        <item>#57</item>
+        <item>#20</item>
+        <item>#10</item>
+        <item>#70</item>
+        <item>#91</item>
+        <item>#18</item>
+        <item>#41</item>
+        <item>#72</item>
+        <item>#47</item>
+        <item>#77</item>
+        <item>#55</item>
+        <item>#48</item>
+        <item>#6</item>
+        <item>#46</item>
+        <item>#60</item>
+        <item>#35</item>
+    </string-array>
+
+    <string-array name="player_position">
+        <item>Center</item>
+        <item>Center</item>
+        <item>Center</item>
+        <item>Left Wing</item>
+        <item>Center</item>
+        <item>Center</item>
+        <item>Center</item>
+        <item>Center</item>
+        <item>Left Wing</item>
+        <item>Left Wing</item>
+        <item>Center</item>
+        <item>Center</item>
+        <item>Right Wing</item>
+        <item>Center</item>
+        <item>Rover</item>
+        <item>Rover</item>
+        <item>Defenseman</item>
+        <item>Defenseman</item>
+        <item>Defenseman</item>
+        <item>Defenseman</item>
+        <item>Defenseman</item>
+        <item>Defenseman</item>
+        <item>Goalie</item>
+        <item>Goalie</item>
+    </string-array>
+
+    <string-array name="player_description">
+        <item>Ivan Barbashev Bio\n\nBarbashev was selected No. 1 by Moncton of the Quebec Major Junior Hockey League in the 2012 Canadian Hockey League Import Draft</item>
+        <item>Tyler Bozak Bio\n\nFor a self-described late bloomer, the 6-foot-1, 195-pound center has fashioned a solid NHL career.</item>
+        <item>Logan Brown Bio\n\nTraded to St. Louis by Ottawa with a conditional pick in 2022 NHL Draft for Zach Sanford, September 25, 2021.</item>
+        <item>Pavel Buchnevich Bio\n\nIt was during New York Rangers development camp June 28, 2016 when Pavel Buchnevich made it clear he was ready for the challenges that awaited him in his first season in North America.</item>
+        <item>Dakota Joshua Bio\n\nTraded to St. Louis by Toronto for future considerations, July 12, 2019.</item>
+        <item>Klim Kostin Bio\n\nThe Russian born Kostin was drafted by the Blues in the 2017 draft, the 31st overall pick.</item>
+        <item>Jordan Kyrou Bio\n\nThe St. Louis Blues selected Kyrou, a Toronto native, in the second round (No. 35) of the 2016 NHL Draft.</item>
+        <item>Ryan OReilly Bio\n\nOReillys first season with the Blues was one for the record books. After being acquired in 2018, OReilly led the Blues in scoring during the regular season (77 points; 28 goals, 49 assists).</item>
+        <item>David Perron Bio\n\nPerron got the Stanley Cup championship with the St. Louis Blues in 2019 that he did not get a year earlier with the Vegas Golden Knights.</item>
+        <item>Brandon Saad Bio\n\nThe son of a Syrian immigrant and grandson of a former NFL official who worked two Super Bowls, Saad does not come from a hockey background. He knew at a young age, though, that he would grow up to be an NHL star.</item>
+        <item>Brayden Schenn Bio\n\nThe St. Louis Blues paid a big price for Schenn. Schenn, a center who was eligible to become a restricted free agent after the 2015-16 season, finished with 44 points in the final 46 games for the Philadelphia Flyers. </item>
+        <item>Oskar Sundqvist Bio\n\nSundqvist got his name on the Stanley Cup in 2019 when he was a regular on the fourth line for the St. Louis Blues, contributing nine points (four goals, five assists) and playing solid defense.</item>
+        <item>Vladimir Tarasenko Bio\n\nSpectacular one-on-one skills, speed and deft finishing touch have helped Tarasenko earn comparisons to Hockey Hall of Fame center Sergei Fedorov. He wears No. 91 in tribute to his fellow Russian.</item>
+        <item>Robert Thomas Bio\n\nThomas was a first-round pick (No. 20) of the St. Louis Blues in the 2017 NHL Draft. He stepped into their lineup as a 19-year-old and made himself right at home. The native of Aurora, Ontario, played 70 games as a rookie in 2018-19</item>
+        <item>Robert Bortuzzo Bio\n\nBortuzzo is a physical player who does not fill up the scoresheet, but the smooth-skating defenseman is a reliable puck-mover with a solid right-hand shot.</item>
+        <item>Justin Faulk Bio\n\nFaulk lists his mother as the biggest influence on his hockey career. She took him skating when he was 3, and who decided to take him back for another try a few months later after Justin failed so miserably during the initial attempt.</item>
+        <item>Torey Krug Bio\n\nKrug is undersized for an NHL defenseman, which may have played a part in him going undrafted. But since making his name known in the 2013 Stanley Cup Playoffs, Krug has become a staple of the defense corp.</item>
+        <item>Niko Mikkola Bio\n\nThe Finnish born Mikkola was acquired by the Blue in the 2015 draft, 5th rd, 6th pk (127th overall).</item>
+        <item>Colton Parayko Bio\n\nIt is hard to believe that the 6-foot-6 and 226 pound Parayko could fly under the radar, but he was referred to as the St. Louis Blues secret weapon - until the 2019 Stanley Cup Playoffs, when he helped the Blues win their first Stanley Cup championship</item>
+        <item>Scott Perunovich Bio\n\nSome of Perunovichs accomplishments: NCAA (West) First All-American Team (2020) and Hobey Baker Memorial Award (Top U.S. Collegiate Player) (2020)</item>
+        <item>Marco Scandella Bio\n\nScandella did not enjoy a smooth ride to success in the NHL. A second-round pick by the Minnesota Wild in the 2008 NHL Draft, the defenseman joined the professional ranks in the 2010-11 season.</item>
+        <item>Jake Walman Bio\n\nSome of Walmans accomplishments: NCAA East First All-American Team (2016), NCAA East Second All-American Team (2017)</item>
+        <item>Jordan Binnington Bio\n\nBinnington was 25 when the St. Louis Blues finally gave him a chance midway through the 2018-19 season, and all he did was carry them to the Stanley Cup. He got his first NHL start on Jan. 7, 2019, and shut out the Philadelphia Flyers 3-0.</item>
+        <item>Ville Husso Bio\n\nVille Husso got his first opportunity to play in the NHL during the 2020-21 season, when he went 9-6-1 with a 3.21 goals-against average, .893 save percentage and one shutout in 17 games (15 starts) for the St. Louis Blues.</item>
+    </string-array>
+</resources>
